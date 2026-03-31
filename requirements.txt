@@ -3,3 +3,4 @@ zhipuai
 sniffio
 httpx
 anyio
+matplotlib
