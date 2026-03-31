@@ -1,4 +1,5 @@
 streamlit
 zhipuai
-matplotlib
-speechrecognition
+sniffio
+httpx
+anyio
