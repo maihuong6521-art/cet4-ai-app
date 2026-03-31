@@ -1,5 +1,2 @@
 streamlit
-matplotlib
-speechrecognition
-pyaudio
 zhipuai
